@@ -1,5 +1,24 @@
-# Object file
-*.o
+# Файлы кеша миниатюр Windows
+Thumbs.db
+Thumbs.db: encryptable
+ehthumbs.db
+ehthumbs_vista.db
 
-# Ada Library Information
-*.ali
+# Файл дампа
+* .stackdump
+
+# Конфигурационный файл папки
+[ Dd ] esktop.ini
+
+# Корзина, используемая в общих папках
+$ RECYCLE.BIN /
+
+# Файлы установщика Windows
+* .cab
+* .msi
+* .msix
+* .msm
+* .msp
+
+# Ярлыки Windows
+* .lnk
